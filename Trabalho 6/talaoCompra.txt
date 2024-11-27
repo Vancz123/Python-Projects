@@ -1,0 +1,4 @@
+--- Talão de Compras ---
+Arroz: 2 x €1.50 = €3.00
+
+Total a pagar: €3.00

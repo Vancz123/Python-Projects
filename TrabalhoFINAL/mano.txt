@@ -1,0 +1,5 @@
+Nome: mano
+Idade: 25
+Frequência Respiratória: 25.0
+Temperatura: 21.0
+Frequência Cardíaca: 5.0

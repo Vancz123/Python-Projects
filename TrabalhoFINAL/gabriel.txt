@@ -1,0 +1,5 @@
+Nome: Gabriel
+Idade: 23
+Frequência Respiratória: 54.0
+Temperatura: 36.2
+Frequência Cardíaca: 80.0
